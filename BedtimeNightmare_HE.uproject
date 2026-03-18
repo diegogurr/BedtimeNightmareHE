@@ -15,10 +15,6 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
-		},
-		{
-			"Name": "WindowsDualsense_ds5w",
-			"Enabled": true
 		}
 	]
 }
